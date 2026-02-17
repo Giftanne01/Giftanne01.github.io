@@ -1,0 +1,19 @@
+title: Gift Anne Khaoya- Cybersecurity Portfolio
+description: Offensive Security | Penetration Testing | Cryptography
+theme: minima
+author:
+  name: Gift Anne Khaoya
+  email:Giftanne021@gmail.com
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+# Show excerpts on home page
+show_excerpts: true
